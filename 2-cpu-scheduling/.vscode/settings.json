@@ -1,0 +1,17 @@
+{
+  "files.associations": {
+    "chrono": "c",
+    "ranges": "c",
+    "variant": "c",
+    "stdio.h": "c"
+  },
+  "emeraldwalk.runonsave": {
+    "commands": [
+      {
+        "match": "\\.c",
+        "isAsync": true,
+        "cmd": "make clean; make"
+      }
+    ]
+  }
+}

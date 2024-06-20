@@ -1,0 +1,1602 @@
+%PDF-1.4
+%“Œ‹ž ReportLab Generated PDF document http://www.reportlab.com
+1 0 obj
+<<
+/F1 2 0 R /F2 3 0 R /F3 4 0 R /F4 5 0 R /F5 6 0 R /F6 7 0 R
+>>
+endobj
+2 0 obj
+<<
+/BaseFont /Helvetica /Encoding /WinAnsiEncoding /Name /F1 /Subtype /Type1 /Type /Font
+>>
+endobj
+3 0 obj
+<<
+/BaseFont /Times-Roman /Encoding /WinAnsiEncoding /Name /F2 /Subtype /Type1 /Type /Font
+>>
+endobj
+4 0 obj
+<<
+/BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding /Name /F3 /Subtype /Type1 /Type /Font
+>>
+endobj
+5 0 obj
+<<
+/BaseFont /Courier /Encoding /WinAnsiEncoding /Name /F4 /Subtype /Type1 /Type /Font
+>>
+endobj
+6 0 obj
+<<
+/BaseFont /Helvetica-Oblique /Encoding /WinAnsiEncoding /Name /F5 /Subtype /Type1 /Type /Font
+>>
+endobj
+7 0 obj
+<<
+/BaseFont /Courier-Bold /Encoding /WinAnsiEncoding /Name /F6 /Subtype /Type1 /Type /Font
+>>
+endobj
+8 0 obj
+<<
+/Contents 19 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 18 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 /Trans <<
+
+>> 
+  /Type /Page
+>>
+endobj
+9 0 obj
+<<
+/Contents 20 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 18 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 /Trans <<
+
+>> 
+  /Type /Page
+>>
+endobj
+10 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://black.readthedocs.io/en/stable/)
+>> /Border [ 0 0 0 ] /Rect [ 358.4536 606.8236 526.3236 618.8236 ] /Subtype /Link /Type /Annot
+>>
+endobj
+11 0 obj
+<<
+/Annots [ 10 0 R ] /Contents 21 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 18 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 
+  /Trans <<
+
+>> /Type /Page
+>>
+endobj
+12 0 obj
+<<
+/Outlines 14 0 R /PageLabels 22 0 R /PageMode /UseNone /Pages 18 0 R /Type /Catalog
+>>
+endobj
+13 0 obj
+<<
+/Author () /CreationDate (D:19800101000000+00'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:19800101000000+00'00') /Producer (ReportLab PDF Library - www.reportlab.com) 
+  /Subject (\(unspecified\)) /Title (Assignment 3: Filesystem) /Trapped /False
+>>
+endobj
+14 0 obj
+<<
+/Count 3 /First 15 0 R /Last 17 0 R /Type /Outlines
+>>
+endobj
+15 0 obj
+<<
+/Dest [ 8 0 R /XYZ 57.02362 603.0236 0 ] /Next 16 0 R /Parent 14 0 R /Title (Getting started)
+>>
+endobj
+16 0 obj
+<<
+/Dest [ 8 0 R /XYZ 57.02362 196.4236 0 ] /Next 17 0 R /Parent 14 0 R /Prev 15 0 R /Title (Features and grading)
+>>
+endobj
+17 0 obj
+<<
+/Dest [ 11 0 R /XYZ 57.02362 383.8236 0 ] /Parent 14 0 R /Prev 16 0 R /Title (Remarks)
+>>
+endobj
+18 0 obj
+<<
+/Count 3 /Kids [ 8 0 R 9 0 R 11 0 R ] /Type /Pages
+>>
+endobj
+19 0 obj
+<<
+/Length 10253
+>>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 57.02362 741.0236 cm
+q
+.133333 .133333 .133333 rg
+BT 1 0 0 1 0 4 Tm /F2 20 Tf 24 TL 136.7142 0 Td (Assignment 3: Filesystem) Tj T* -136.7142 0 Td ET
+Q
+Q
+q
+1 0 0 1 57.02362 690.0236 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F3 10 Tf 12 TL 48.03937 0 Td (Date:) Tj T* -48.03937 0 Td ET
+Q
+Q
+q
+1 0 0 1 91.03937 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (May 8th, 2024) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 57.02362 675.0236 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F3 10 Tf 12 TL 28.02937 0 Td (Deadline:) Tj T* -28.02937 0 Td ET
+Q
+Q
+q
+1 0 0 1 91.03937 3 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (May 26th, 2024 23:59 CET) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 57.02362 657.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (You must implement a tool in Python 3 that understands the Minix filesystem, version 1.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 615.0236 cm
+q
+BT 1 0 0 1 0 26 Tm 3.029168 Tw 12 TL /F1 10 Tf 0 0 0 rg (You can use ) Tj /F4 10 Tf (make) Tj ( ) Tj (tarball) Tj /F1 10 Tf ( to generate a tarball for submission automatically. This assignment is) Tj T* 0 Tw .088241 Tw (individual; you are not allowed to work in teams. Submissions are made to Canvas, where they will be tested) Tj T* 0 Tw (automatically.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 582.0236 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf .133333 .133333 .133333 rg (Getting started) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 570.0236 cm
+Q
+q
+1 0 0 1 57.02362 570.0236 cm
+Q
+q
+1 0 0 1 57.02362 558.0236 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F4 10 Tf 12 TL 2 0 Td (1.) Tj T* -2 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (Read the ) Tj /F5 10 Tf (Extended Introduction to the Minix Filesystem) Tj /F1 10 Tf ( provided on Canvas.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 57.02362 552.0236 cm
+Q
+q
+1 0 0 1 57.02362 540.0236 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F4 10 Tf 12 TL 2 0 Td (2.) Tj T* -2 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Unpack the provided source code archive.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 57.02362 534.0236 cm
+Q
+q
+1 0 0 1 57.02362 522.0236 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F4 10 Tf 12 TL 2 0 Td (3.) Tj T* -2 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (Familiarize yourself with the Python 3 template ) Tj /F4 10 Tf (mfstool.py) Tj /F1 10 Tf ( that we provide.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 57.02362 516.0236 cm
+Q
+q
+1 0 0 1 57.02362 492.0236 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 9 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F4 10 Tf 12 TL 2 0 Td (4.) Tj T* -2 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 14 Tm .974029 Tw 12 TL /F1 10 Tf 0 0 0 rg (Make sure the ) Tj /F4 10 Tf (mkfs.minix) Tj /F1 10 Tf ( and ) Tj /F4 10 Tf (fsck.minix) Tj /F1 10 Tf ( tools are installed \(e.g. ) Tj /F4 10 Tf (apt) Tj ( ) Tj (install) Tj ( ) Tj (util-linux) Tj /F1 10 Tf  T* 0 Tw (on Ubuntu\)) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 57.02362 486.0236 cm
+Q
+q
+1 0 0 1 57.02362 262.4236 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 208.6 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F4 10 Tf 12 TL 2 0 Td (5.) Tj T* -2 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 196.6 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 1.448453 Tw (Create a test Minix version 1 filesystem supporting 14 character filenames by entering the following) Tj T* 0 Tw (commands in a shell:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 23 151.4 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.941176 .972549 1 rg
+n -6 -6 457.0283 36 re B*
+Q
+q
+.941176 .972549 1 rg
+n 12 12 6 12 re f*
+.941176 .972549 1 rg
+n 18 12 12 12 re f*
+.941176 .972549 1 rg
+n 30 12 6 12 re f*
+.941176 .972549 1 rg
+n 90 12 6 12 re f*
+.941176 .972549 1 rg
+n 96 12 12 12 re f*
+.941176 .972549 1 rg
+n 108 12 6 12 re f*
+.941176 .972549 1 rg
+n 168 12 6 12 re f*
+.941176 .972549 1 rg
+n 174 12 12 12 re f*
+.941176 .972549 1 rg
+n 186 12 6 12 re f*
+.941176 .972549 1 rg
+n 204 12 6 12 re f*
+.941176 .972549 1 rg
+n 210 12 30 12 re f*
+.941176 .972549 1 rg
+n 240 12 6 12 re f*
+.941176 .972549 1 rg
+n 246 12 24 12 re f*
+.941176 .972549 1 rg
+n 270 12 0 12 re f*
+.941176 .972549 1 rg
+n 60 0 6 12 re f*
+.941176 .972549 1 rg
+n 78 0 6 12 re f*
+.941176 .972549 1 rg
+n 96 0 6 12 re f*
+.941176 .972549 1 rg
+n 102 0 12 12 re f*
+.941176 .972549 1 rg
+n 114 0 6 12 re f*
+.941176 .972549 1 rg
+n 174 0 0 12 re f*
+BT 1 0 0 1 0 14 Tm 12 TL /F4 10 Tf 0 0 0 rg (dd) Tj .733333 .733333 .733333 rg ( ) Tj /F6 10 Tf 0 .501961 0 rg (if) Tj /F4 10 Tf .4 .4 .4 rg (=) Tj 0 0 0 rg (/dev/zero) Tj .733333 .733333 .733333 rg ( ) Tj .098039 .090196 .486275 rg (of) Tj .4 .4 .4 rg (=) Tj 0 0 0 rg (disk1.img) Tj .733333 .733333 .733333 rg ( ) Tj .098039 .090196 .486275 rg (bs) Tj .4 .4 .4 rg (=) Tj 0 0 0 rg (1k) Tj .733333 .733333 .733333 rg ( ) Tj .098039 .090196 .486275 rg (count) Tj .4 .4 .4 rg (=) Tj (1024) Tj .733333 .733333 .733333 rg  T* 0 0 0 rg (mkfs.minix) Tj .733333 .733333 .733333 rg ( ) Tj 0 0 0 rg (-1) Tj .733333 .733333 .733333 rg ( ) Tj 0 0 0 rg (-n) Tj .733333 .733333 .733333 rg ( ) Tj .4 .4 .4 rg (14) Tj .733333 .733333 .733333 rg ( ) Tj 0 0 0 rg (disk1.img) Tj .733333 .733333 .733333 rg  T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 23 113.4 cm
+q
+BT 1 0 0 1 0 14 Tm .386417 Tw 12 TL /F1 10 Tf 0 0 0 rg (Note that this creates a file first \(with ) Tj /F4 10 Tf (dd) Tj /F1 10 Tf (\), before it writes a Minix filesystem into that file. After that you) Tj T* 0 Tw (can mount the filesystem and add files and directories for testing:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 23 56.2 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.941176 .972549 1 rg
+n -6 -6 457.0283 48 re B*
+Q
+q
+.941176 .972549 1 rg
+n 24 24 6 12 re f*
+.941176 .972549 1 rg
+n 60 24 6 12 re f*
+.941176 .972549 1 rg
+n 78 24 6 12 re f*
+.941176 .972549 1 rg
+n 108 24 6 12 re f*
+.941176 .972549 1 rg
+n 168 24 6 12 re f*
+.941176 .972549 1 rg
+n 198 24 0 12 re f*
+.941176 .972549 1 rg
+n 30 12 6 12 re f*
+.941176 .972549 1 rg
+n 120 12 0 12 re f*
+.941176 .972549 1 rg
+n 30 0 6 12 re f*
+.941176 .972549 1 rg
+n 90 0 0 12 re f*
+BT 1 0 0 1 0 26 Tm 12 TL /F4 10 Tf 0 0 0 rg (sudo) Tj .733333 .733333 .733333 rg ( ) Tj 0 0 0 rg (mount) Tj .733333 .733333 .733333 rg ( ) Tj 0 0 0 rg (-o) Tj .733333 .733333 .733333 rg ( ) Tj 0 0 0 rg (loop) Tj .733333 .733333 .733333 rg ( ) Tj 0 0 0 rg (disk1.img) Tj .733333 .733333 .733333 rg ( ) Tj 0 0 0 rg (/mnt) Tj .733333 .733333 .733333 rg  T* 0 0 0 rg (touch) Tj .733333 .733333 .733333 rg ( ) Tj 0 0 0 rg (/mnt/file0.txt) Tj .733333 .733333 .733333 rg  T* 0 0 0 rg (mkdir) Tj .733333 .733333 .733333 rg ( ) Tj 0 0 0 rg (/mnt/dir1) Tj .733333 .733333 .733333 rg  T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 23 30.2 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Finally, do not forget to umount, to make sure all changes are written to the disk image:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.941176 .972549 1 rg
+n -6 -6 457.0283 24 re B*
+Q
+q
+.941176 .972549 1 rg
+n 24 0 6 12 re f*
+.941176 .972549 1 rg
+n 66 0 6 12 re f*
+.941176 .972549 1 rg
+n 96 0 0 12 re f*
+BT 1 0 0 1 0 2 Tm 12 TL /F4 10 Tf 0 0 0 rg (sudo) Tj .733333 .733333 .733333 rg ( ) Tj 0 0 0 rg (umount) Tj .733333 .733333 .733333 rg ( ) Tj 0 0 0 rg (/mnt) Tj .733333 .733333 .733333 rg  T* ET
+Q
+Q
+Q
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 57.02362 256.4236 cm
+Q
+q
+1 0 0 1 57.02362 244.4236 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F4 10 Tf 12 TL 2 0 Td (6.) Tj T* -2 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (Familiarize yourself with the Python 3 ) Tj /F4 10 Tf (struct) Tj /F1 10 Tf ( module and its ) Tj /F4 10 Tf (unpack) Tj /F1 10 Tf ( and ) Tj /F4 10 Tf (pack) Tj /F1 10 Tf ( functions.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 57.02362 238.4236 cm
+Q
+q
+1 0 0 1 57.02362 226.4236 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F4 10 Tf 12 TL 2 0 Td (7.) Tj T* -2 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (Familiarize yourself with the ) Tj /F4 10 Tf (bytearray) Tj /F1 10 Tf ( data type.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 57.02362 220.4236 cm
+Q
+q
+1 0 0 1 57.02362 208.4236 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F4 10 Tf 12 TL 2 0 Td (8.) Tj T* -2 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Familiarize yourself with the Python 3 functions to open, read, seek within, and write files.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 57.02362 208.4236 cm
+Q
+q
+1 0 0 1 57.02362 175.4236 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf .133333 .133333 .133333 rg (Features and grading) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 133.4236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 26 Tm /F1 10 Tf 12 TL .526743 Tw (Your grade will be 0 if you did not submit your work on time, in an invalid format, use source code from the) Tj T* 0 Tw -0.040103 Tw (Internet \(even with references\), or it fails during testing. Using code generators, such as ChatGPT, also gives) Tj T* 0 Tw (grade 0. If your submission is valid, your grade starts from 0, and the following tests determine your grade :) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 127.4236 cm
+Q
+q
+1 0 0 1 57.02362 127.4236 cm
+Q
+q
+1 0 0 1 57.02362 82.22362 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 30.2 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F4 10 Tf 12 TL 8 0 Td (\177) Tj T* -8 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 30.2 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (+1pt if your tool implements the following functionality: Running the command) Tj T* ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.941176 .972549 1 rg
+n -6 -6 454.0283 24 re B*
+Q
+q
+.941176 .972549 1 rg
+n 42 0 6 12 re f*
+.941176 .972549 1 rg
+n 108 0 6 12 re f*
+.941176 .972549 1 rg
+n 168 0 6 12 re f*
+.941176 .972549 1 rg
+n 186 0 0 12 re f*
+BT 1 0 0 1 0 2 Tm 12 TL /F4 10 Tf 0 0 0 rg (python3) Tj .733333 .733333 .733333 rg ( ) Tj 0 0 0 rg (mfstool.py) Tj .733333 .733333 .733333 rg ( ) Tj 0 0 0 rg (disk1.img) Tj .733333 .733333 .733333 rg ( ) Tj 0 0 0 rg (ls) Tj .733333 .733333 .733333 rg  T* ET
+Q
+Q
+Q
+Q
+Q
+q
+Q
+Q
+Q
+ 
+endstream
+endobj
+20 0 obj
+<<
+/Length 11902
+>>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 57.02362 635.8236 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 6 116.2 Tm  T* ET
+q
+1 0 0 1 23 54.2 cm
+q
+BT 1 0 0 1 0 62 Tm -0.060103 Tw 12 TL /F1 10 Tf 0 0 0 rg (prints the filenames in the root directory of the ) Tj /F4 10 Tf (disk1.img) Tj /F1 10 Tf ( filesystem on standard output \(stdout\), 1 line) Tj T* 0 Tw .506772 Tw (per filename, excluding any trailing '\\0' characters \(see code below\). They must be printed in the order) Tj T* 0 Tw 2.039908 Tw (in which they appear in the directory block. It must also print the ) Tj /F4 10 Tf (.) Tj /F1 10 Tf ( and ) Tj /F4 10 Tf (..) Tj /F1 10 Tf ( directory names. The) Tj T* 0 Tw .050556 Tw /F4 10 Tf (disk1.img) Tj /F1 10 Tf ( file contains a Minix v1 filesystem with 14 character filenames. You may assume all names) Tj T* 0 Tw 1.090556 Tw (in this assignment consist of printable characters. Any errors or debugging output must be printed to) Tj T* 0 Tw (standard error \(stderr\). You may assume the root directory data does not occupy more than 1 block.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.941176 .972549 1 rg
+n -6 -6 457.0283 48 re B*
+Q
+q
+.941176 .972549 1 rg
+n 0 24 54 12 re f*
+.941176 .972549 1 rg
+n 60 24 6 12 re f*
+.941176 .972549 1 rg
+n 72 24 24 12 re f*
+.941176 .972549 1 rg
+n 96 24 6 12 re f*
+.941176 .972549 1 rg
+n 102 24 36 12 re f*
+.941176 .972549 1 rg
+n 138 24 6 12 re f*
+.941176 .972549 1 rg
+n 144 24 6 12 re f*
+.941176 .972549 1 rg
+n 150 24 6 12 re f*
+.941176 .972549 1 rg
+n 156 24 12 12 re f*
+.941176 .972549 1 rg
+n 168 24 6 12 re f*
+.941176 .972549 1 rg
+n 174 24 6 12 re f*
+.941176 .972549 1 rg
+n 180 24 0 12 re f*
+.941176 .972549 1 rg
+n 0 12 18 12 re f*
+.941176 .972549 1 rg
+n 18 12 6 12 re f*
+.941176 .972549 1 rg
+n 24 12 36 12 re f*
+.941176 .972549 1 rg
+n 60 12 6 12 re f*
+.941176 .972549 1 rg
+n 66 12 36 12 re f*
+.941176 .972549 1 rg
+n 102 12 6 12 re f*
+.941176 .972549 1 rg
+n 108 12 30 12 re f*
+.941176 .972549 1 rg
+n 138 12 6 12 re f*
+.941176 .972549 1 rg
+n 144 12 54 12 re f*
+.941176 .972549 1 rg
+n 198 12 6 12 re f*
+.941176 .972549 1 rg
+n 204 12 0 12 re f*
+.941176 .972549 1 rg
+n 0 0 18 12 re f*
+.941176 .972549 1 rg
+n 18 0 6 12 re f*
+.941176 .972549 1 rg
+n 24 0 36 12 re f*
+.941176 .972549 1 rg
+n 60 0 6 12 re f*
+.941176 .972549 1 rg
+n 66 0 36 12 re f*
+.941176 .972549 1 rg
+n 102 0 6 12 re f*
+.941176 .972549 1 rg
+n 108 0 30 12 re f*
+.941176 .972549 1 rg
+n 138 0 6 12 re f*
+.941176 .972549 1 rg
+n 144 0 6 12 re f*
+.941176 .972549 1 rg
+n 150 0 6 12 re f*
+.941176 .972549 1 rg
+n 156 0 12 12 re f*
+.941176 .972549 1 rg
+n 168 0 6 12 re f*
+.941176 .972549 1 rg
+n 174 0 6 12 re f*
+.941176 .972549 1 rg
+n 180 0 0 12 re f*
+BT 1 0 0 1 0 26 Tm 12 TL /F4 10 Tf 0 0 0 rg (printname) Tj ( ) Tj .4 .4 .4 rg (=) Tj 0 0 0 rg ( ) Tj (name) Tj .4 .4 .4 rg (.) Tj 0 0 0 rg (rstrip) Tj (\() Tj .729412 .129412 .129412 rg (b) Tj (') Tj /F6 10 Tf .733333 .4 .133333 rg (\\0) Tj /F4 10 Tf .729412 .129412 .129412 rg (') Tj 0 0 0 rg (\)) Tj .733333 .733333 .733333 rg  T* 0 0 0 rg (sys) Tj .4 .4 .4 rg (.) Tj 0 0 0 rg (stdout) Tj .4 .4 .4 rg (.) Tj 0 0 0 rg (buffer) Tj .4 .4 .4 rg (.) Tj 0 0 0 rg (write) Tj (\() Tj (printname) Tj (\)) Tj .733333 .733333 .733333 rg  T* 0 0 0 rg (sys) Tj .4 .4 .4 rg (.) Tj 0 0 0 rg (stdout) Tj .4 .4 .4 rg (.) Tj 0 0 0 rg (buffer) Tj .4 .4 .4 rg (.) Tj 0 0 0 rg (write) Tj (\() Tj .729412 .129412 .129412 rg (b) Tj (') Tj /F6 10 Tf .733333 .4 .133333 rg (\\n) Tj /F4 10 Tf .729412 .129412 .129412 rg (') Tj 0 0 0 rg (\)) Tj .733333 .733333 .733333 rg  T* ET
+Q
+Q
+Q
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 57.02362 635.8236 cm
+Q
+q
+1 0 0 1 57.02362 629.8236 cm
+Q
+q
+1 0 0 1 57.02362 629.8236 cm
+Q
+q
+1 0 0 1 57.02362 581.8236 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 33 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F4 10 Tf 12 TL 8 0 Td (\177) Tj T* -8 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 38 Tm .621223 Tw 12 TL /F1 10 Tf 0 0 0 rg (+1pt if your tool implements the same functionality as above, but now assume ) Tj /F4 10 Tf (disk1.img) Tj /F1 10 Tf ( contains a) Tj T* 0 Tw .259272 Tw (Minix v1 filesystem with 14 character filenames, and the root directory data does not occupy more than) Tj T* 0 Tw 1.033241 Tw (7 blocks. The directory blocks must be processed in the order in which they are recorded in the root) Tj T* 0 Tw (directory's inode.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 57.02362 575.8236 cm
+Q
+q
+1 0 0 1 57.02362 539.8236 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 21 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F4 10 Tf 12 TL 8 0 Td (\177) Tj T* -8 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 26 Tm .621223 Tw 12 TL /F1 10 Tf 0 0 0 rg (+1pt if your tool implements the same functionality as above, but now assume ) Tj /F4 10 Tf (disk1.img) Tj /F1 10 Tf ( contains a) Tj T* 0 Tw .259272 Tw (Minix v1 filesystem with 30 character filenames, and the root directory data does not occupy more than) Tj T* 0 Tw (1 block.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 57.02362 533.8236 cm
+Q
+q
+1 0 0 1 57.02362 497.8236 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 21 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F4 10 Tf 12 TL 8 0 Td (\177) Tj T* -8 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 26 Tm .621223 Tw 12 TL /F1 10 Tf 0 0 0 rg (+1pt if your tool implements the same functionality as above, but now assume ) Tj /F4 10 Tf (disk1.img) Tj /F1 10 Tf ( contains a) Tj T* 0 Tw .259272 Tw (Minix v1 filesystem with 30 character filenames, and the root directory data does not occupy more than) Tj T* 0 Tw (7 blocks.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 57.02362 491.8236 cm
+Q
+q
+1 0 0 1 57.02362 360.6236 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 116.2 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F4 10 Tf 12 TL 8 0 Td (\177) Tj T* -8 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 116.2 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (+1pt if your tool implements the following functionality: Running the command) Tj T* ET
+Q
+Q
+q
+1 0 0 1 23 83 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.941176 .972549 1 rg
+n -6 -6 457.0283 24 re B*
+Q
+q
+.941176 .972549 1 rg
+n 42 0 6 12 re f*
+.941176 .972549 1 rg
+n 108 0 6 12 re f*
+.941176 .972549 1 rg
+n 168 0 6 12 re f*
+.941176 .972549 1 rg
+n 192 0 6 12 re f*
+.941176 .972549 1 rg
+n 306 0 0 12 re f*
+BT 1 0 0 1 0 2 Tm 12 TL /F4 10 Tf 0 0 0 rg (python3) Tj .733333 .733333 .733333 rg ( ) Tj 0 0 0 rg (mfstool.py) Tj .733333 .733333 .733333 rg ( ) Tj 0 0 0 rg (disk1.img) Tj .733333 .733333 .733333 rg ( ) Tj 0 0 0 rg (cat) Tj .733333 .733333 .733333 rg ( ) Tj 0 0 0 rg (dirname1/filename1) Tj .733333 .733333 .733333 rg  T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 62 Tm .309272 Tw 12 TL /F1 10 Tf 0 0 0 rg (writes the contents of the file ) Tj /F4 10 Tf (filename1) Tj /F1 10 Tf ( located in the subdirectory ) Tj /F4 10 Tf (dirname1) Tj /F1 10 Tf ( in the root directory of) Tj T* 0 Tw 3.162362 Tw (the ) Tj /F4 10 Tf (disk1.img) Tj /F1 10 Tf ( filesystem to standard output \(stdout\). Your tool should support both maximum) Tj T* 0 Tw .136019 Tw (filename lengths \(14 and 30\). This holds for all features in this assignment. You do not have to interpret) Tj T* 0 Tw .352686 Tw (or handle the bytes in the content, just write them to stdout verbatim. The command must not print any) Tj T* 0 Tw .584395 Tw (extra information, such as extra newlines, on stdout. Hint: ) Tj /F4 10 Tf (sys.stdout.buffer.write\(\)) Tj /F1 10 Tf (. You may) Tj T* 0 Tw (assume the file data does not occupy more than 1 block.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 57.02362 354.6236 cm
+Q
+q
+1 0 0 1 57.02362 330.6236 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 9 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F4 10 Tf 12 TL 8 0 Td (\177) Tj T* -8 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 1.108138 Tw (+1pt if your tool implements the same functionality as above, but now assume the file data does not) Tj T* 0 Tw (occupy more than 7 blocks.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 57.02362 330.6236 cm
+Q
+q
+1 0 0 1 57.02362 288.6236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 26 Tm /F1 10 Tf 12 TL .024908 Tw (The above features will get you a sufficient grade for this assignment. So we strongly suggest you focus your) Tj T* 0 Tw 1.035522 Tw (efforts on making these work first. You can test the above features with Canvas/CodeGrade. For a higher) Tj T* 0 Tw (grade, you can implement the below features:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 282.6236 cm
+Q
+q
+1 0 0 1 57.02362 282.6236 cm
+Q
+q
+1 0 0 1 57.02362 187.4236 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 80.2 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F4 10 Tf 12 TL 8 0 Td (\177) Tj T* -8 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 80.2 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (+1pt if your tool implements the following functionality: Running the command) Tj T* ET
+Q
+Q
+q
+1 0 0 1 23 47 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.941176 .972549 1 rg
+n -6 -6 457.0283 24 re B*
+Q
+q
+.941176 .972549 1 rg
+n 42 0 6 12 re f*
+.941176 .972549 1 rg
+n 108 0 6 12 re f*
+.941176 .972549 1 rg
+n 168 0 6 12 re f*
+.941176 .972549 1 rg
+n 204 0 6 12 re f*
+.941176 .972549 1 rg
+n 264 0 0 12 re f*
+BT 1 0 0 1 0 2 Tm 12 TL /F4 10 Tf 0 0 0 rg (python3) Tj .733333 .733333 .733333 rg ( ) Tj 0 0 0 rg (mfstool.py) Tj .733333 .733333 .733333 rg ( ) Tj 0 0 0 rg (disk1.img) Tj .733333 .733333 .733333 rg ( ) Tj 0 0 0 rg (touch) Tj .733333 .733333 .733333 rg ( ) Tj 0 0 0 rg (filename1) Tj .733333 .733333 .733333 rg  T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 26 Tm 1.428647 Tw 12 TL /F1 10 Tf 0 0 0 rg (creates a new file with size 0 and filename ) Tj /F4 10 Tf (filename1) Tj /F1 10 Tf ( inside the root directory of the ) Tj /F4 10 Tf (disk1.img) Tj /F1 10 Tf  T* 0 Tw .144609 Tw (filesystem. You may assume the root directory data does not occupy more than 1 block, and has space) Tj T* 0 Tw (for this filename. For the i-node values of ) Tj /F4 10 Tf (i_uid) Tj /F1 10 Tf (, ) Tj /F4 10 Tf (i_gid) Tj /F1 10 Tf (, etc. see ) Tj /F3 10 Tf (Remarks) Tj /F1 10 Tf (.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 57.02362 187.4236 cm
+Q
+q
+1 0 0 1 57.02362 181.4236 cm
+Q
+q
+1 0 0 1 57.02362 181.4236 cm
+Q
+q
+1 0 0 1 57.02362 74.22362 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 92.2 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F4 10 Tf 12 TL 8 0 Td (\177) Tj T* -8 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 92.2 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (+1pt if your tool implements the following functionality: Running the command) Tj T* ET
+Q
+Q
+q
+1 0 0 1 23 59 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.941176 .972549 1 rg
+n -6 -6 457.0283 24 re B*
+Q
+q
+.941176 .972549 1 rg
+n 42 0 6 12 re f*
+.941176 .972549 1 rg
+n 108 0 6 12 re f*
+.941176 .972549 1 rg
+n 168 0 6 12 re f*
+.941176 .972549 1 rg
+n 204 0 6 12 re f*
+.941176 .972549 1 rg
+n 258 0 0 12 re f*
+BT 1 0 0 1 0 2 Tm 12 TL /F4 10 Tf 0 0 0 rg (python3) Tj .733333 .733333 .733333 rg ( ) Tj 0 0 0 rg (mfstool.py) Tj .733333 .733333 .733333 rg ( ) Tj 0 0 0 rg (disk1.img) Tj .733333 .733333 .733333 rg ( ) Tj 0 0 0 rg (mkdir) Tj .733333 .733333 .733333 rg ( ) Tj 0 0 0 rg (dirname1) Tj .733333 .733333 .733333 rg  T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 38 Tm .136772 Tw 12 TL /F1 10 Tf 0 0 0 rg (creates a new directory called ) Tj /F4 10 Tf (dirname1) Tj /F1 10 Tf ( without any files inside it the root directory of the ) Tj /F4 10 Tf (disk1.img) Tj /F1 10 Tf  T* 0 Tw .144609 Tw (filesystem. You may assume the root directory data does not occupy more than 1 block, and has space) Tj T* 0 Tw .279917 Tw (for this filename. Note an empty directory still needs a ) Tj /F4 10 Tf (.) Tj /F1 10 Tf ( and ) Tj /F4 10 Tf (..) Tj /F1 10 Tf ( entry. You may assume the disk is not) Tj T* 0 Tw (completely full. For the i-node values of ) Tj /F4 10 Tf (i_uid) Tj /F1 10 Tf (, ) Tj /F4 10 Tf (i_gid) Tj /F1 10 Tf (, etc. see ) Tj /F3 10 Tf (Remarks) Tj /F1 10 Tf (.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 57.02362 74.22362 cm
+Q
+q
+1 0 0 1 57.02362 68.22362 cm
+Q
+q
+1 0 0 1 57.02362 68.22362 cm
+Q
+ 
+endstream
+endobj
+21 0 obj
+<<
+/Length 9295
+>>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 57.02362 669.8236 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 80.2 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F4 10 Tf 12 TL 8 0 Td (\177) Tj T* -8 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 80.2 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (+1pt if your tool implements the following functionality: Running the command) Tj T* ET
+Q
+Q
+q
+1 0 0 1 23 47 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.941176 .972549 1 rg
+n -6 -6 457.0283 24 re B*
+Q
+q
+.941176 .972549 1 rg
+n 42 0 6 12 re f*
+.941176 .972549 1 rg
+n 108 0 6 12 re f*
+.941176 .972549 1 rg
+n 168 0 6 12 re f*
+.941176 .972549 1 rg
+n 210 0 6 12 re f*
+.941176 .972549 1 rg
+n 324 0 6 12 re f*
+.941176 .972549 1 rg
+n 360 0 0 12 re f*
+BT 1 0 0 1 0 2 Tm 12 TL /F4 10 Tf 0 0 0 rg (python3) Tj .733333 .733333 .733333 rg ( ) Tj 0 0 0 rg (mfstool.py) Tj .733333 .733333 .733333 rg ( ) Tj 0 0 0 rg (disk1.img) Tj .733333 .733333 .733333 rg ( ) Tj 0 0 0 rg (append) Tj .733333 .733333 .733333 rg ( ) Tj 0 0 0 rg (dirname1/filename1) Tj .733333 .733333 .733333 rg ( ) Tj 0 0 0 rg (Hello) Tj .733333 .733333 .733333 rg  T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 26 Tm 1.588334 Tw 12 TL /F1 10 Tf 0 0 0 rg (appends the bytes "Hello" to the existing file in location ) Tj /F4 10 Tf (dirname1/filename1) Tj /F1 10 Tf ( of the ) Tj /F4 10 Tf (disk1.img) Tj /F1 10 Tf  T* 0 Tw .27389 Tw (filesystem. Appending means that the bytes are added after the existing content. You may assume this) Tj T* 0 Tw (content is smaller than 7168-len\("Hello"\) bytes, and the bytes to append consist of a single word.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 57.02362 669.8236 cm
+Q
+q
+1 0 0 1 57.02362 663.8236 cm
+Q
+q
+1 0 0 1 57.02362 663.8236 cm
+Q
+q
+1 0 0 1 57.02362 651.8236 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F4 10 Tf 12 TL 8 0 Td (\177) Tj T* -8 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (+1pt if your tool implements the ) Tj /F4 10 Tf (append) Tj /F1 10 Tf ( functionality but now for files of any size.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 57.02362 645.8236 cm
+Q
+q
+1 0 0 1 57.02362 609.8236 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 21 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F4 10 Tf 12 TL 8 0 Td (\177) Tj T* -8 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 26 Tm 4.496772 Tw 12 TL /F1 10 Tf 0 0 0 rg (Up to -0.5pt if your code is not formatted properly. You can locally check your code with) Tj T* 0 Tw 1.324793 Tw /F4 10 Tf (flake8) Tj ( ) Tj (--max-line-length=120) Tj ( ) Tj (--ignore=E203,W503) Tj /F1 10 Tf (. Hint: you can configure your favorite) Tj T* 0 Tw (IDE to format your code automatically, for example with Black \() Tj 0 .4 .6 rg (https://black.readthedocs.io/en/stable/) Tj 0 0 0 rg (\).) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 57.02362 609.8236 cm
+Q
+q
+1 0 0 1 57.02362 597.8236 cm
+Q
+q
+1 0 0 1 57.02362 514.8236 cm
+q
+1 .972549 .862745 rg
+n 0 83 481.2283 -83 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 6 57 Tm  T* ET
+q
+1 0 0 1 16 52 cm
+q
+.133333 .133333 .133333 rg
+BT 1 0 0 1 0 2.5 Tm /F2 12.5 Tf 15 TL (Note) Tj T* ET
+Q
+Q
+q
+1 0 0 1 16 16 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL .148022 Tw (Your tool will be evaluated largely automatically. This means features only get a positive grade if they) Tj T* 0 Tw (work perfectly, and there will be no half grade for "effort".) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+.662745 .662745 .662745 RG
+.5 w
+n 0 83 m 481.2283 83 l S
+n 0 0 m 481.2283 0 l S
+n 0 0 m 0 83 l S
+n 481.2283 0 m 481.2283 83 l S
+Q
+Q
+Q
+q
+1 0 0 1 57.02362 508.8236 cm
+Q
+q
+1 0 0 1 57.02362 496.8236 cm
+Q
+q
+1 0 0 1 57.02362 401.8236 cm
+q
+1 .972549 .862745 rg
+n 0 95 481.2283 -95 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 6 69 Tm  T* ET
+q
+1 0 0 1 16 64 cm
+q
+.133333 .133333 .133333 rg
+BT 1 0 0 1 0 2.5 Tm /F2 12.5 Tf 15 TL (Note) Tj T* ET
+Q
+Q
+q
+1 0 0 1 16 16 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 26 Tm /F1 10 Tf 12 TL .527397 Tw (You are supposed to implement these features in a generic manner, i.e. you should not hardcode to) Tj T* 0 Tw .532917 Tw (let the tests pass. If we find out that you have hardcoded for the tests, then you will receive 0 points) Tj T* 0 Tw (for these features, even if the tests succeed.) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+.662745 .662745 .662745 RG
+.5 w
+n 0 95 m 481.2283 95 l S
+n 0 0 m 481.2283 0 l S
+n 0 0 m 0 95 l S
+n 481.2283 0 m 481.2283 95 l S
+Q
+Q
+Q
+q
+1 0 0 1 57.02362 395.8236 cm
+Q
+q
+1 0 0 1 57.02362 362.8236 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf .133333 .133333 .133333 rg (Remarks) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 350.8236 cm
+Q
+q
+1 0 0 1 57.02362 62.82362 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 282 cm
+Q
+q
+1 0 0 1 20 282 cm
+Q
+q
+1 0 0 1 20 270 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F4 10 Tf 12 TL 8 0 Td (\177) Tj T* -8 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Your tool must use Python 3. Using Python 2 is not allowed.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 20 264 cm
+Q
+q
+1 0 0 1 20 240 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 9 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F4 10 Tf 12 TL 8 0 Td (\177) Tj T* -8 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 1.687025 Tw (Testing will be done using Python 3.11. While this is generally backwards compatible with any) Tj T* 0 Tw (Python 3 version, check that your tool works on CodeGrade.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 20 234 cm
+Q
+q
+1 0 0 1 20 210 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 9 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F4 10 Tf 12 TL 8 0 Td (\177) Tj T* -8 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 1.644488 Tw (Your tool must not use any external commands, non-standard Python libraries, or source code) Tj T* 0 Tw (found on the Internet, or you will receive a 0 grade.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 20 204 cm
+Q
+q
+1 0 0 1 20 180 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 9 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F4 10 Tf 12 TL 8 0 Td (\177) Tj T* -8 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 14 Tm 1.544272 Tw 12 TL /F1 10 Tf 0 0 0 rg (If you use more Python files than ) Tj /F4 10 Tf (mfstool.py) Tj /F1 10 Tf (, you must ensure that they are included in the) Tj T* 0 Tw (submission tar-ball.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 20 174 cm
+Q
+q
+1 0 0 1 20 150 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 9 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F4 10 Tf 12 TL 8 0 Td (\177) Tj T* -8 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL .191147 Tw (Your tool must support Minix version 1 filesystems, with both 14 and 30 character filenames, for all) Tj T* 0 Tw (features you implement.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 20 144 cm
+Q
+q
+1 0 0 1 20 132 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F4 10 Tf 12 TL 8 0 Td (\177) Tj T* -8 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Errors or debugging output must go to stderr.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 20 126 cm
+Q
+q
+1 0 0 1 20 102 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 9 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F4 10 Tf 12 TL 8 0 Td (\177) Tj T* -8 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 14 Tm .121147 Tw 12 TL /F1 10 Tf 0 0 0 rg (You can use the ) Tj /F4 10 Tf (fsck.minix) Tj /F1 10 Tf ( command to test the integrity of the filesystem you created. You will) Tj T* 0 Tw (probably need to use the ) Tj /F4 10 Tf (-f) Tj /F1 10 Tf ( flag to force it to check a filesystem that is marked "clean".) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 20 96 cm
+Q
+q
+1 0 0 1 20 48 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 33 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F4 10 Tf 12 TL 8 0 Td (\177) Tj T* -8 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 38 Tm .94713 Tw 12 TL /F1 10 Tf 0 0 0 rg (In the i-nodes you create, you may set the ) Tj /F4 10 Tf (i_uid) Tj /F1 10 Tf ( and ) Tj /F4 10 Tf (i_gid) Tj /F1 10 Tf ( to 0, ) Tj /F4 10 Tf (i_time) Tj /F1 10 Tf ( to current time, and) Tj T* 0 Tw 2.160556 Tw /F4 10 Tf (i_nlinks) Tj /F1 10 Tf ( field to 1. The ) Tj /F4 10 Tf (i_mode) Tj /F1 10 Tf ( field should correctly reflect whether the i-node is about a) Tj T* 0 Tw .282556 Tw (directory \() Tj /F4 10 Tf (S_IFDIR) Tj /F1 10 Tf (\) or a regular file \() Tj /F4 10 Tf (S_IFREG) Tj /F1 10 Tf (\). The permission bits of the ) Tj /F4 10 Tf (i_mode) Tj /F1 10 Tf ( fields must be) Tj T* 0 Tw /F4 10 Tf (S_IRUSR) Tj ( ) Tj (|) Tj ( ) Tj (S_IWUSR) Tj ( ) Tj (|) Tj ( ) Tj (S_IXUSR) Tj /F1 10 Tf (.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 20 42 cm
+Q
+q
+1 0 0 1 20 18 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 9 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F4 10 Tf 12 TL 8 0 Td (\177) Tj T* -8 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 14 Tm 1.321079 Tw 12 TL /F1 10 Tf 0 0 0 rg (You do not have to maintain the number of links to i-nodes, so can also ignore warnings about) Tj T* 0 Tw (these from ) Tj /F4 10 Tf (fsck.minix) Tj /F1 10 Tf (.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 20 12 cm
+Q
+q
+1 0 0 1 20 0 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F4 10 Tf 12 TL 8 0 Td (\177) Tj T* -8 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (You may assume that a zone consists of just 1 block.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 20 0 cm
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 57.02362 62.82362 cm
+Q
+ 
+endstream
+endobj
+22 0 obj
+<<
+/Nums [ 0 23 0 R 1 24 0 R 2 25 0 R ]
+>>
+endobj
+23 0 obj
+<<
+/S /D /St 1
+>>
+endobj
+24 0 obj
+<<
+/S /D /St 2
+>>
+endobj
+25 0 obj
+<<
+/S /D /St 3
+>>
+endobj
+xref
+0 26
+0000000000 65535 f 
+0000000073 00000 n 
+0000000154 00000 n 
+0000000261 00000 n 
+0000000370 00000 n 
+0000000482 00000 n 
+0000000587 00000 n 
+0000000702 00000 n 
+0000000812 00000 n 
+0000001017 00000 n 
+0000001222 00000 n 
+0000001414 00000 n 
+0000001639 00000 n 
+0000001745 00000 n 
+0000002027 00000 n 
+0000002101 00000 n 
+0000002217 00000 n 
+0000002351 00000 n 
+0000002460 00000 n 
+0000002533 00000 n 
+0000012839 00000 n 
+0000024794 00000 n 
+0000034141 00000 n 
+0000034200 00000 n 
+0000034234 00000 n 
+0000034268 00000 n 
+trailer
+<<
+/ID 
+[<94b9516cde409515f5a98de5f7961aff><94b9516cde409515f5a98de5f7961aff>]
+% ReportLab generated PDF document -- digest (http://www.reportlab.com)
+
+/Info 13 0 R
+/Root 12 0 R
+/Size 26
+>>
+startxref
+34302
+%%EOF
